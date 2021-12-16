@@ -1,0 +1,8 @@
+
+`for`: es un bucle que se usa para repetir una o mas instrucciones un determinado numero de veces. y se utiliza normalmente cuando se conoce con seguridad el numero de veces que queremos que se ejecute la instruccion. tiene 3 partes: la variable que se usa para contar cantidad de repeticiones; la condicion de frenado, cuando quieres que deje de ejecutarse; por ultimo, el incremento de la variable.
+
+`&&`: (and o y) es un operador logico que evalua ambas expresiones y devuelve "true" si AMBAS expresiones son verdaderas. si una o ambas de las expresiones son falsas, devvolvera "false"
+
+`||`: (or o ò) es un operador logico que devuelve "true" si una o ambas de las expresiones es verdadera.
+
+`!`: (not) es un operador logico que devuelve el valor opuesto de lo que se le pide o de lo que se le da.
