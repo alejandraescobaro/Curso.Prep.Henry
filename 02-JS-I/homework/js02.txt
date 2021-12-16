@@ -1,9 +1,11 @@
-Variables: es la forma de almacenar el valor de algo para usarlo mas tarde. se usa la palabra clave Var y se asigna el valor usando el signo (=)
+Variables: Es la forma de almacenar el valor de algo para usarlo mas tarde. se usa la palabra clave Var y se asigna el valor usando el signo (=)
 
-Strings: son bloques de texto. Cualquier texto entre comillas ("") es un string.
+Strings: Son bloques de texto. Cualquier texto entre comillas ("") es un string.
 
 Funciones (argumentos, `return`): Una funcion es un conjunto de codigos que se agrupan para realizar una tarea concreta y se pueden reutilizar fácilmente.
-Los argumentos: son las variables que necesitan las funciones, se agregan dentro de parentesis y si son multiples argumentos se separan por comas. 
+
+argumentos: son las variables que necesitan las funciones, se agregan dentro de parentesis y si son multiples argumentos se separan por comas. 
+
 return: Se usa para devolver los valores que se han calculado. Solo se puede devolver un valor cada vez que se ejecuta. Suele ser la ultima instruccion en las funciones que se necesita porque lo que se agregue despues de un return se ignora.
 
 Declaraciones `if`: es una estructura de control de flujo usada para tomar decisiones. If es un condicional que sirve para realizar una u otra operacion en funcion de una expresion; es decir, es una forma en la que la funcion verifique si algo es "true" y ya sea ejecutando el codigo si sea asì, o si no lo es se avance. 
