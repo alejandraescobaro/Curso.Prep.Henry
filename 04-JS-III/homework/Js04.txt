@@ -1,0 +1,2 @@
+Arrays: los arrays son una lista de elementos. Estas listas pueden proporcionar metodos para efectuar operaciones de recorrido y de mutacion. Tanto la longitud como el tipo de los elementos de un array son variables. Se definen utilizando los corchetes y los elementos se separan por comas.
+
