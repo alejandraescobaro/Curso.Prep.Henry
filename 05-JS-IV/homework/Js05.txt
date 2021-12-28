@@ -1,0 +1,9 @@
+Objetos: los objetos son colecciones de propiedades. 
+
+Propiedades: Las propiedades son una asociacion entre un nombre y un valor.
+
+Métodos: Los metodos son las funciones guardadas en un objeto.
+
+Bucle `for…in`: está construido para iterar propiedades de objeto.
+
+Notación de puntos vs notación de corchetes
